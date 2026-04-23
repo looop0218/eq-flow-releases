@@ -4,18 +4,13 @@
 
 ## Overview / 프로그램 소개
 
-THMC (Thermo-Hydro-Mechanical-Chemical) coupled-behavior numerical models are strongly coupled nonlinear systems in which the relationships between governing equations are difficult to grasp intuitively. EQ-Flow is being developed as a visualization tool that represents these equation relationships as a directed graph, making complex analytical models easier to understand and work with.
+THMC 복합거동 수치해석 모델은 강하게 결합된 비선형 시스템으로, 지배방정식 간의 상호관계를 직관적으로 파악하기 어렵습니다. EQ-Flow는 이러한 방정식 관계를 그래프로 시각화하여, 복잡한 해석 모델을 이해하고 활용하기 쉽게 돕는 도식화 도구로 개발 중입니다.
 
-THMC(열-수리-역학-화학; Thermo-Hydro-Mechanical-Chemical) 복합거동 수치해석 모델은 강하게 결합된 비선형 시스템으로, 지배방정식 간의 상호관계를 직관적으로 파악하기 어렵습니다. EQ-Flow는 이러한 방정식 관계를 그래프로 시각화하여, 복잡한 해석 모델을 이해하고 활용하기 쉽게 돕는 도식화 도구로 개발 중입니다.
+### 기대 효과
 
-### Expected benefits / 기대 효과
-
-- **Clarify equation relationships** — explicit mapping of dependencies across coupled-behavior governing equations  
-  **지배방정식 관계성 파악** — 복합거동 지배방정식 간 의존 관계의 명확한 시각화
-- **Guide sensitivity analysis** — support for selecting key input variables  
-  **민감도 분석 지원** — 민감도 분석을 위한 주요 입력 변수 선정 지원
-- **Deepen result interpretation** — structural context for interpreting sensitivity results  
-  **분석 결과의 심층 해석** — 민감도 분석 결과에 대한 심층적 분석 도구로 활용
+- **지배방정식 관계성 파악** — 복합거동 지배방정식 간 의존 관계의 명확한 시각화
+- **민감도 분석 지원** — 민감도 분석을 위한 주요 입력 변수 선정 지원
+- **분석 결과의 심층 해석** — 민감도 분석 결과에 대한 심층적 분석 도구로 활용
 
 ---
 
