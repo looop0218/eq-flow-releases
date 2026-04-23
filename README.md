@@ -79,16 +79,3 @@ EQ-Flow는 앱 시작 시 자동으로 최신 버전을 확인합니다.
 - **[Releases](../../releases)** — 각 버전의 상세 릴리스 노트 및 다운로드
 
 ---
-
-## Contact / 문의
-
-사용 중 문의사항, 불편사항, 기능 요청이 있으시면 아래로 연락 주시기 바랍니다.
-
-- **Maintainer**: 권용민 (ymgwon@tsne.co.kr)
-- **Organization**: TSNE
-
----
-
-© 2026 TSNE. All rights reserved.
-Internal distribution repository — for authorized users only.
-내부 사용자용 배포 저장소입니다.
